@@ -12,7 +12,10 @@ dependencies:
 
   file_picker: ^2.0.13
   video_player: ^1.0.1
-  flutter_ffmpeg: ^0.3.0
+  flutter_ffmpeg:
+    git:
+      url: https://github.com/longch/flutter-ffmpeg.git
+      ref: longch-patch
   video_thumbnail: ^0.2.4
   path_provider: ^1.6.24
   intl: ^0.16.1
