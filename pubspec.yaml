@@ -16,10 +16,10 @@ dependencies:
   path_provider: ^1.6.24
   intl: ^0.16.1
   path: ^1.7.0
-  flutter_ffmpeg:
-    git:
-      url: https://github.com/longch/flutter-ffmpeg.git
-      ref: longch-patch
+  # flutter_ffmpeg:
+  #  git:
+  #    url: https://github.com/longch/flutter-ffmpeg.git
+  #    ref: longch-patch
 
 dev_dependencies:
   flutter_test:
